@@ -1,0 +1,951 @@
+﻿Kandahar,31°37′N,65°43′E,Afghanistan
+Kabul,34°32′N,69°10′E,Afghanistan
+Tirana,41°20′N,19°49′E,Albania
+Tiaret,35°22′N,1°19′E,Algeria
+Algiers,36°46′N,3°13′E,Algeria
+Andorra la Vella,42°30′N,1°30′E,Andorra
+Huambo,12°46′S,15°44′E,Angola
+Luanda,8°50′S,13°14′E,Angola
+St. John's,17°07′N,61°51′W,Antigua and Barbuda
+Salta,24°47′S,65°25′W,Argentina
+San Miguel de Tucumán,26°49′S,65°13′W,Argentina
+Córdoba,31°25′S,64°11′W,Argentina
+Mendoza,32°53′S,68°49′W,Argentina
+Rosario,32°57′S,60°40′W,Argentina
+ Buenos Aires,34°36′S,58°23′W,Argentina
+Bahía Blanca,38°43′S,62°16′W,Argentina
+San Carlos de Bariloche,41°09′S,71°18′W,Argentina
+Trelew,43°15′S,65°18′W,Argentina
+Comodoro Rivadavia,45°52′S,67°29′W,Argentina
+Río Gallegos,51°38′S,69°13′W,Argentina
+Ushuaia,54°48′S,68°18′W,Argentina
+Yerevan,40°11′N,44°31′E,Armenia
+Darwin,12°27′S,130°50′E,Australia
+Cairns,16°56′S,145°47′E,Australia
+Townsville,19°15′S,146°49′E,Australia
+Port Hedland,20°19′S,118°36′E,Australia
+Rockhampton,23°23′S,150°31′E,Australia
+Brisbane,27°28′S,153°02′E,Australia
+Gold Coast,28°01′S,153°24′E,Australia
+Kingston,29°04′S,167°58′E,Australia
+Perth,31°57′S,115°52′E,Australia
+Mandurah,32°32′S,115°43′E,Australia
+Newcastle,32°55′S,151°45′E,Australia
+Sydney,33°52′S,151°13′E,Australia
+Wollongong,34°26′S,150°53′E,Australia
+Adelaide,34°56′S,138°36′E,Australia
+Canberra,35°18′S,149°07′E,Australia
+Melbourne,37°49′S,144°58′E,Australia
+Geelong,38°09′S,144°21′E,Australia
+Hobart,42°53′S,147°20′E,Australia
+Graz,47°04′N,15°26′E,Austria
+Innsbruck,47°16′N,11°23′E,Austria
+Salzburg,47°48′N,13°02′E,Austria
+Vienna,48°13′N,16°22′E,Austria
+Linz,48°18′N,14°17′E,Austria
+Stepanakert,39°49′N,46°45′E,Azerbaijan
+Baku,40°24′N,49°53′E,Azerbaijan
+Nassau,25°04′N,77°20′W,Bahamas
+Manama,26°13′N,50°35′E,Bahrain
+Chittagong,22°22′N,91°48′E,Bangladesh
+Dhaka,23°42′N,90°23′E,Bangladesh
+Bridgetown,13°06′N,59°37′W,Barbados
+Minsk,53°54′N,27°34′E,Belarus
+Charleroi,50°24′N,4°26′E,Belgium
+Brussels,50°51′N,4°21′E,Belgium
+Ghent,51°03′N,3°44′E,Belgium
+Antwerp,51°13′N,4°24′E,Belgium
+Belmopan,17°15′N,88°46′W,Belize
+Belize City,17°30′N,88°11′W,Belize
+Cotonou,6°22′N,2°26′E,Benin
+Porto-Novo,6°30′N,2°36′E,Benin
+Thimphu,27°28′N,89°39′E,Bhutan
+La Paz,16°30′S,68°09′W,Bolivia
+Santa Cruz de la Sierra,17°48′S,63°10′W,Bolivia
+Sucre,19°03′S,65°15′W,Bolivia
+Sarajevo,43°51′N,18°21′E,Bosnia and Herzegovina
+Francistown,21°10′S,27°31′E,Botswana
+Gaborone,24°39′S,25°55′E,Botswana
+Macapá,0°02′N,51°04′W,Brazil
+Belém,1°27′S,48°30′W,Brazil
+Palmas,10°11′S,48°20′W,Brazil
+Aracaju,10°55′S,37°03′W,Brazil
+Sinop,11°51′S,55°39′W,Brazil
+Salvador,12°58′S,38°29′W,Brazil
+Ilhéus,14°47′S,39°03′W,Brazil
+Cuiabá,15°36′S,56°06′W,Brazil
+Brasília,15°48′S,47°52′W,Brazil
+Goiânia,16°40′S,49°15′W,Brazil
+Governador Valadares,18°51′S,41°56′W,Brazil
+Uberlândia,18°55′S,48°17′W,Brazil
+Belo Horizonte,19°55′S,43°56′W,Brazil
+São Luís,2°32′S,44°18′W,Brazil
+Boa Vista,2°49′N,60°40′W,Brazil
+Vitória,20°19′S,40°20′W,Brazil
+Campo Grande,20°28′S,54°37′W,Brazil
+São José do Rio Preto,20°48′S,49°23′W,Brazil
+Ribeirão Preto,21°11′S,47°48′W,Brazil
+Juiz de Fora,21°46′S,43°21′W,Brazil
+Poços de Caldas,21°47′S,46°34′W,Brazil
+Araraquara,21°48′S,48°11′W,Brazil
+Bauru,22°19′S,49°04′W,Brazil
+Assis,22°40′S,50°25′W,Brazil
+Campinas,22°54′S,47°03′W,Brazil
+Rio de Janeiro,22°55′S,43°12′W,Brazil
+São José dos Campos,23°11′S,45°53′W,Brazil
+São Paulo,23°33′S,46°38′W,Brazil
+Curitiba,25°25′S,49°15′W,Brazil
+Florianópolis,27°50′S,48°25′W,Brazil
+Manaus,3°06′S,60°01′W,Brazil
+Sobral,3°40′S,40°14′W,Brazil
+Fortaleza,3°43′S,38°33′W,Brazil
+Fernando de Noronha,3°51′S,32°25′W,Brazil
+Porto Alegre,30°02′S,51°14′W,Brazil
+Pelotas,31°46′S,52°21′W,Brazil
+Chuí,33°41′S,53°27′W,Brazil
+Teresina,5°06′S,42°48′W,Brazil
+Imperatriz,5°32′S,47°29′W,Brazil
+Natal,5°47′S,35°12′W,Brazil
+João Pessoa,7°05′S,34°50′W,Brazil
+Juazeiro do Norte,7°12′S,39°20′W,Brazil
+Campina Grande,7°14′S,35°53′W,Brazil
+Recife,8°03′S,34°54′W,Brazil
+Caruaru,8°17′S,35°59′W,Brazil
+Porto Velho,8°46′S,63°54′W,Brazil
+Garanhuns,8°53′S,36°30′W,Brazil
+Petrolina,9°24′S,40°30′W,Brazil
+Maceió,9°40′S,35°44′W,Brazil
+Rio Branco,9°58′S,67°49′W,Brazil
+Bandar Seri Begawan,4°53′N,114°57′E,Brunei
+Sofia,42°42′N,23°20′E,Bulgaria
+Bobo-Dioulasso,11°11′N,4°17′W,Burkina Faso
+Ouagadougou,12°21′N,1°32′W,Burkina Faso
+Bujumbura,3°23′S,29°22′E,Burundi
+Phnom Penh,11°33′N,104°55′E,Cambodia
+Siem Reap,13°22′N,103°52′E,Cambodia
+Yaoundé,3°52′N,11°31′E,Cameroon
+Douala,4°03′N,9°42′E,Cameroon
+Windsor,42°17′N,83°00′W,Canada
+Toronto,43°42′N,79°24′W,Canada
+Yarmouth,43°50′N,66°07′W,Canada
+Halifax,44°51′N,63°12′W,Canada
+Saint John,45°17′N,66°05′W,Canada
+Ottawa,45°25′N,75°41′W,Canada
+Montreal,45°30′N,73°34′W,Canada
+Fredericton,45°57′N,66°40′W,Canada
+Moncton,46°08′N,64°46′W,Canada
+Charlottetown,46°14′N,63°09′W,Canada
+North Bay,46°18′N,79°27′W,Canada
+Sudbury,46°29′N,81°01′W,Canada
+Sault Ste. Marie,46°32′N,84°21′W,Canada
+Quebec City,46°49′N,71°13′W,Canada
+St. John's,47°34′N,52°42′W,Canada
+Thunder Bay,48°23′N,89°15′W,Canada
+Victoria,48°26′N,123°22′W,Canada
+Vancouver,49°15′N,123°06′W,Canada
+Kelowna,49°53′N,119°30′W,Canada
+Winnipeg,49°54′N,97°08′W,Canada
+Regina,50°27′N,104°36′W,Canada
+Kamloops,50°41′N,120°20′W,Canada
+Calgary,51°03′N,114°04′W,Canada
+Saskatoon,52°08′N,106°41′W,Canada
+Edmonton,53°32′N,113°30′W,Canada
+Grande Prairie,55°10′N,118°48′W,Canada
+Fort McMurray,56°44′N,111°23′W,Canada
+Whitehorse,60°43′N,135°03′W,Canada
+Yellowknife,62°27′N,114°24′W,Canada
+Iqaluit,63°45′N,68°31′W,Canada
+Tuktoyaktuk,69°27′N,133°02′W,Canada
+Grise Fiord,76°25′N,82°54′W,Canada
+Eureka,79°59′N,85°56′W,Canada
+Alert,82°30′N,62°20′W,Canada
+Praia,14°55′N,23°31′W,Cape Verde
+Bangui,4°22′N,18°35′E,Central African Republic
+N'Djamena,12°07′N,15°03′E,Chad
+Moundou,8°34′N,16°05′E,Chad
+Arica,18°29′S,70°20′W,Chile
+Iquique,20°13′S,70°09′W,Chile
+Calama,22°28′S,68°56′W,Chile
+Antofagasta,23°39′S,70°24′W,Chile
+Hanga Roa,27°09′S,109°26′W,Chile
+Copiapó,27°22′S,70°20′W,Chile
+La Serena,29°54′S,71°15′W,Chile
+Valparaíso,33°03′S,71°37′W,Chile
+Santiago,33°27′S,70°40′W,Chile
+Concepción,36°50′S,73°03′W,Chile
+Temuco,38°45′S,72°40′W,Chile
+Valdivia,39°49′S,73°15′W,Chile
+Puerto Montt,41°28′S,72°56′W,Chile
+Puerto Aisén,45°24′S,72°41′W,Chile
+Coihaique,45°34′S,72°04′W,Chile
+Punta Arenas,53°10′S,70°56′W,Chile
+Puerto Williams,54°56′S,67°37′W,Chile
+Puerto Toro,55°05′S,67°05′W,Chile
+Cartagena,10°24′N,75°30′W,Colombia
+Barranquilla,10°58′N,74°48′W,Colombia
+Santiago de Cali,3°25′N,76°31′W,Colombia
+Bogotá,4°36′N,74°05′W,Colombia
+Medellín,6°14′N,75°35′W,Colombia
+Cúcuta,7°54′N,72°30′W,Colombia
+Moroni,11°45′S,43°12′E,Comoros
+Alajuela,10°01′N,84°13′W,Costa Rica
+Liberia,10°38′N,85°26′W,Costa Rica
+San José,9°56′N,84°05′W,Costa Rica
+Puntarenas,9°58′N,84°50′W,Costa Rica
+Limón,9°59′N,83°02′W,Costa Rica
+Split,43°30′N,16°26′E,Croatia
+Zagreb,45°49′N,15°59′E,Croatia
+Santiago de Cuba,20°01′N,75°49′W,Cuba
+Havana,23°08′N,82°23′W,Cuba
+Nicosia,35°10′N,33°22′E,Cyprus
+Prague,50°05′N,14°25′E,Czech Republic
+Lubumbashi,11°40′S,27°28′E,Democratic Republic of the Congo
+Kinshasa,4°20′S,15°19′E,Democratic Republic of the Congo
+Odense,55°24′N,10°23′E,Denmark
+Esbjerg,55°29′N,8°27′E,Denmark
+Copenhagen,55°41′N,12°34′E,Denmark
+Aarhus,56°09′N,10°13′E,Denmark
+Qaqortoq,60°43′N,46°02′W,Denmark
+Tórshavn,62°01′N,6°46′W,Denmark
+Nuuk (Godthåb),64°11′N,51°44′W,Denmark
+Qaanaaq,7°28′N,69°14′W,Denmark
+Upernavik,72°47′N,56°09′W,Denmark
+Nord,81°36′N,16°40′W,Denmark
+Djibouti,11°35′N,43°09′E,Djibouti
+Roseau,15°18′N,61°23′W,Dominica
+Santo Domingo,18°28′N,69°57′W,Dominican Republic
+Quito,0°15′S,78°35′W,Ecuador
+Guayaquil,2°11′S,79°53′W,Ecuador
+Luxor,25°41′N,32°39′E,Egypt
+Suez,29°58′N,32°33′E,Egypt
+Cairo,30°03′N,31°14′E,Egypt
+Alexandria,31°12′N,29°55′E,Egypt
+Port Said,31°15′N,32°17′E,Egypt
+San Salvador,13°41′N,89°11′W,El Salvador
+Malabo,3°45′N,8°47′E,Equatorial Guinea
+Asmara,15°20′N,38°56′E,Eritrea
+Tartu,58°23′N,26°43′E,Estonia
+Tallinn,59°26′N,24°45′E,Estonia
+Addis Ababa,9°02′N,38°44′E,Ethiopia
+Palikir,6°55′N,158°10′E,Federated States of Micronesia
+Weno,7°27′N,151°51′E,Federated States of Micronesia
+Labasa,16°26′S,179°22′E,Fiji
+Rabi Island,16°30′S,180°00′W,Fiji
+Suva,18°08′S,178°27′E,Fiji
+Helsinki,60°10′N,24°56′E,Finland
+Espoo,60°12′N,24°39′E,Finland
+Vantaa,60°18′N,25°02′E,Finland
+Turku,60°27′N,22°16′E,Finland
+Lahti,60°59′N,25°39′E,Finland
+Tampere,61°30′N,23°46′E,Finland
+Jyväskylä,62°15′N,25°45′E,Finland
+Kuopio,62°54′N,27°41′E,Finland
+Vaasa,63°06′N,21°37′E,Finland
+Oulu,65°01′N,25°28′E,Finland
+Pudasjärvi,65°22′N,27°00′E,Finland
+Kemi,65°44′N,24°34′E,Finland
+Tornio,65°51′N,24°09′E,Finland
+Kuusamo,65°58′N,29°11′E,Finland
+Rovaniemi,66°30′N,25°44′E,Finland
+Kemijärvi,66°43′N,27°26′E,Finland
+Utsjoki,69°54′N,27°01′E,Finland
+Nuorgam,70°05′N,27°53′E,Finland
+Mamoudzou,12°47′S,45°14′E,France
+Mata-Utu,13°17′S,176°11′W,France
+Fort-de-France,14°36′N,61°05′W,France
+Basse-Terre,16°00′N,61°44′W,France
+Papeete,17°32′S,149°34′W,France
+Saint-Denis,20°53′S,55°27′E,France
+Nouméa,22°17′S,166°27′E,France
+Cayenne,4°55′N,52°20′W,France
+Marseille,43°18′N,5°22′E,France
+Cannes,43°33′N,7°01′E,France
+Toulouse,43°36′N,1°27′E,France
+Nice,43°42′N,7°16′E,France
+Bordeaux,44°50′N,0°35′W,France
+Lyon,45°46′N,4°51′E,France
+Saint-Pierre,46°47′N,56°11′W,France
+Nantes,47°13′N,1°33′W,France
+Orléans,47°54′N,1°55′E,France
+Brest,48°23′N,4°29′W,France
+Strasbourg,48°35′N,7°45′E,France
+Paris,48°51′N,2°21′E,France
+Rouen,49°26′N,1°06′E,France
+Le Havre,49°29′N,0°06′E,France
+Calais,50°57′N,1°51′E,France
+Libreville,0°23′N,9°27′E,Gabon
+Brikama,13°16′N,16°39′W,Gambia
+Serekunda,13°26′N,16°40′W,Gambia
+Banjul,13°27′N,16°35′W,Gambia
+Tbilisi,41°43′N,44°47′E,Georgia
+Tskhinvali,42°14′N,43°58′E,Georgia
+Sukhumi,43°00′N,41°01′E,Georgia
+Munich,48°08′N,11°34′E,Germany
+Stuttgart,48°47′N,9°11′E,Germany
+Frankfurt am Main,50°07′N,8°41′E,Germany
+Cologne,50°56′N,6°58′E,Germany
+Dresden,51°02′N,13°44′E,Germany
+Düsseldorf,51°14′N,6°47′E,Germany
+Leipzig,51°20′N,12°23′E,Germany
+Hannover,52°22′N,9°43′E,Germany
+Berlin,52°31′N,13°23′E,Germany
+Bremen,53°05′N,8°48′E,Germany
+Hamburg,53°34′N,10°00′E,Germany
+Kiel,54°20′N,10°08′E,Germany
+Sekondi-Takoradi,4°55′N,1°46′W,Ghana
+Accra,5°33′N,0°12′W,Ghana
+Kumasi,6°40′N,1°37′W,Ghana
+Tamale,9°24′N,0°51′W,Ghana
+Heraklion,35°20′N,25°08′E,Greece
+Athena,37°58′N,23°43′E,Greece
+Halkida,38°28′N,23°36′E,Greece
+Thessaloniki,40°39′N,22°54′E,Greece
+St. George's,12°03′N,61°45′W,Grenada
+Guatemala City,14°37′N,90°32′W,Guatemala
+Quetzaltenango,14°50′N,91°31′W,Guatemala
+Nzérékoré,7°45′N,8°49′W,Guinea
+Conakry,9°31′N,13°43′W,Guinea
+Bissau,11°51′N,15°34′W,Guinea-Bissau
+Georgetown,6°48′N,58°10′W,Guyana
+Port-au-Prince,18°32′N,72°20′W,Haiti
+Tegucigalpa,14°06′N,87°13′W,Honduras
+Budapest,47°28′N,19°03′E,Hungary
+Reykjavík,64°08′N,21°56′W,Iceland
+Akureyri,65°41′N,18°06′W,Iceland
+Ísafjörður,66°05′N,23°08′W,Iceland
+Port Blair,11°40′N,92°46′E,India
+Bangalore,12°58′N,77°34′E,India
+Chennai (Madras),13°05′N,80°16′E,India
+Hyderabad,17°22′N,78°29′E,India
+Visakhapatnam,17°41′N,83°13′E,India
+Pune,18°31′N,73°51′E,India
+Mumbai (Bombay),18°59′N,72°50′E,India
+Nagpur,21°08′N,79°05′E,India
+Surat,21°10′N,72°50′E,India
+Kolkata (Calcutta),22°34′N,88°22′E,India
+Ahmedabad,23°02′N,72°35′E,India
+Agartala,23°50′N,91°16′E,India
+Kulpahar,25°19′N,79°38′E,India
+Shillong,25°34′N,91°53′E,India
+Patna,25°37′N,85°09′E,India
+Guwahati,26°11′N,91°44′E,India
+Kanpur,26°28′N,80°20′E,India
+Tezpur,26°38′N,92°48′E,India
+Siliguri,26°43′N,88°26′E,India
+Lucknow,26°51′N,80°57′E,India
+Jaipur,26°56′N,75°49′E,India
+Agra,27°11′N,78°01′E,India
+Gangtok,27°20′N,88°37′E,India
+Dibrugarh,27°29′N,95°00′E,India
+New Delhi,28°37′N,77°13′E,India
+Chandigarh,30°45′N,76°47′E,India
+Ludhiana,30°55′N,75°51′E,India
+Shimla,31°06′N,77°10′E,India
+Amritsar,31°38′N,74°52′E,India
+Srinagar,34°05′N,74°47′E,India
+Trivandrum,8°29′N,76°57′E,India
+Kochi,9°58′N,76°17′E,India
+Pontianak,0°01′S,109°20′E,Indonesia
+Pekanbaru,0°32′N,101°27′E,Indonesia
+Padang,0°57′S,100°21′E,Indonesia
+Balikpapan,1°16′S,116°50′E,Indonesia
+Jayapura,2°32′S,140°43′E,Indonesia
+Palembang,2°59′S,104°45′E,Indonesia
+Medan,3°35′N,98°40′E,Indonesia
+Ambon,3°42′S,128°10′E,Indonesia
+Makassar,5°08′S,119°25′E,Indonesia
+Banda Aceh,5°33′N,95°19′E,Indonesia
+Jakarta,6°12′S,106°48′E,Indonesia
+Bogor,6°36′S,106°48′E,Indonesia
+Bandung,6°55′S,107°37′E,Indonesia
+Semarang,6°58′S,110°25′E,Indonesia
+Surabaya,7°16′S,112°45′E,Indonesia
+Yogyakarta,7°48′S,110°22′E,Indonesia
+Malang,7°59′S,112°37′E,Indonesia
+Denpasar,8°39′S,115°13′E,Indonesia
+Isfahan,32°38′N,51°39′E,Iran
+Tehran,35°42′N,51°25′E,Iran
+Mashhad,36°18′N,59°36′E,Iran
+Tabriz,38°04′N,46°18′E,Iran
+Basra,30°30′N,47°49′E,Iraq
+Baghdad,33°20′N,44°26′E,Iraq
+Kirkuk,35°28′N,44°19′E,Iraq
+Erbil,36°11′N,44°01′E,Iraq
+Mosul,36°20′N,43°08′E,Iraq
+Cork,51°54′N,8°28′W,Ireland
+Dublin,53°21′N,6°16′W,Ireland
+Eilat,29°33′N,34°57′E,Israel
+Jerusalem,31°47′N,35°13′E,Israel
+Tel Aviv,32°04′N,34°47′E,Israel
+Catania,37°30′N,15°05′E,Italy
+Palermo,38°07′N,13°22′E,Italy
+Messina,38°11′N,15°33′E,Italy
+Cagliari,39°15′N,9°03′E,Italy
+Naples,40°51′N,14°16′E,Italy
+Rome,41°54′N,12°30′E,Italy
+Florence,43°47′N,11°15′E,Italy
+Bologna,44°30′N,11°21′E,Italy
+Turin,45°04′N,7°42′E,Italy
+Venice,45°26′N,12°20′E,Italy
+Milan,45°28′N,9°11′E,Italy
+Abidjan,5°19′N,4°02′W,Ivory Coast
+Yamoussoukro,6°49′N,5°17′W,Ivory Coast
+Kingston,17°59′N,76°48′W,Jamaica
+Naha,26°13′N,127°41′E,Japan
+Fukuoka,33°35′N,130°24′E,Japan
+Hiroshima,34°23′N,132°27′E,Japan
+Kōbe,34°41′N,135°12′E,Japan
+Osaka,34°42′N,135°30′E,Japan
+Kyoto,35°01′N,135°46′E,Japan
+Nagoya,35°11′N,136°54′E,Japan
+Yokohama,35°27′N,139°38′E,Japan
+Kawasaki,35°31′N,139°42′E,Japan
+Tokyo,35°41′N,139°42′E,Japan
+Sendai,38°16′N,140°52′E,Japan
+Sapporo,43°04′N,141°21′E,Japan
+Nemuro,43°20′N,145°35′E,Japan
+Amman,31°56′N,35°56′E,Jordan
+Almaty,43°17′N,76°54′E,Kazakhstan
+Astana,51°10′N,71°26′E,Kazakhstan
+Nairobi,1°17′S,36°49′E,Kenya
+Mombasa,4°03′S,39°40′E,Kenya
+South Tarawa,1°26′N,173°00′E,Kiribati
+Kuwait City,29°22′N,47°59′E,Kuwait
+Bishkek,42°52′N,74°37′E,Kyrgyzstan
+Vientiane,17°58′N,102°36′E,Laos
+Riga,56°57′N,24°06′E,Latvia
+Beirut,33°53′N,35°31′E,Lebanon
+Maseru,29°19′S,27°29′E,Lesotho
+Monrovia,6°19′N,10°48′W,Liberia
+Sabha,27°02′N,14°26′E,Libya
+Benghazi,32°07′N,20°04′E,Libya
+Tripoli,32°54′N,13°11′E,Libya
+Vaduz,47°08′N,9°31′E,Liechtenstein
+Vilnius,54°41′N,25°17′E,Lithuania
+Luxembourg,49°37′N,6°07′E,Luxembourg
+Skopje,42°00′N,21°26′E,Macedonia
+Antananarivo,18°56′S,47°31′E,Madagascar
+Lilongwe,13°59′S,33°47′E,Malawi
+Blantyre,15°47′S,35°00′E,Malawi
+Johor Bahru,1°29′N,103°44′E,Malaysia
+Kuching,1°34′N,110°21′E,Malaysia
+Malacca Town,2°12′N,102°15′E,Malaysia
+Kuala Lumpur,3°09′N,101°42′E,Malaysia
+Miri,4°24′N,114°00′E,Malaysia
+Ipoh,4°36′N,101°04′E,Malaysia
+George Town,5°25′N,100°19′E,Malaysia
+Kota Kinabalu,5°58′N,116°06′E,Malaysia
+Alor Setar,6°07′N,100°22′E,Malaysia
+Kota Bharu,6°08′N,102°15′E,Malaysia
+Malé,4°11′N,73°31′E,Maldives
+Bamako,12°39′N,8°00′W,Mali
+Koulikoro,12°52′N,7°34′W,Mali
+Timbuktu,16°47′N,3°01′W,Mali
+Birkirkara,35°54′N,14°28′E,Malta
+Valletta,35°54′N,14°31′E,Malta
+Majuro,7°04′N,171°16′E,Marshall Islands
+Nouakchott,18°06′N,15°57′W,Mauritania
+Port Louis,20°10′S,57°30′E,Mauritius
+Tapachula,14°54′N,92°16′W,Mexico
+Acapulco,16°52′N,99°53′W,Mexico
+Puebla,19°03′N,98°13′W,Mexico
+Veracruz,19°11′N,96°09′W,Mexico
+ Mexico City,19°26′N,99°08′W,Mexico
+Querétaro,20°35′N,100°24′W,Mexico
+Guadalajara,20°40′N,103°21′W,Mexico
+Puerto Vallarta,20°40′N,105°16′W,Mexico
+Zapopan,20°43′N,103°24′W,Mexico
+Mérida,20°58′N,89°37′W,Mexico
+León,21°07′N,101°41′W,Mexico
+Cancún,21°10′N,86°51′W,Mexico
+Aguascalientes,21°53′N,102°18′W,Mexico
+San Luis Potosí,22°09′N,100°51′W,Mexico
+Tampico,22°15′N,97°52′W,Mexico
+Cabo San Lucas,22°53′N,109°55′W,Mexico
+Durango,24°01′N,104°40′W,Mexico
+Culiacán,24°48′N,107°23′W,Mexico
+Torreón,25°32′N,103°27′W,Mexico
+Monterrey,25°40′N,100°18′W,Mexico
+Chihuahua,28°38′N,106°05′W,Mexico
+Hermosillo,29°06′N,110°57′W,Mexico
+Ciudad Juárez,31°44′N,106°29′W,Mexico
+Ensenada,31°51′N,116°36′W,Mexico
+Tijuana,32°32′N,117°02′W,Mexico
+Mexicali,32°40′N,115°28′W,Mexico
+Tiraspol,46°51′N,29°38′E,Moldova
+Chişinău,47°00′N,28°55′E,Moldova
+Monaco,43°44′N,7°25′E,Monaco
+Ulaanbaatar,47°55′N,106°55′E,Mongolia
+Podgorica,42°26′N,19°16′E,Montenegro
+El Aaiún,27°09′N,13°12′W,Morocco
+Marrakech,31°38′N,8°01′W,Morocco
+Casablanca,33°32′N,7°35′W,Morocco
+Rabat,34°02′N,6°50′W,Morocco
+Maputo,25°58′S,32°35′E,Mozambique
+Yangon,16°48′N,96°09′E,Myanmar
+Naypyidaw,19°45′N,96°06′E,Myanmar
+Windhoek,22°34′S,17°05′E,Namibia
+Yaren District,0°33′S,166°55′E,Nauru
+Kathmandu,27°42′N,85°20′E,Nepal
+Willemstad,12°07′N,68°56′W,Netherlands
+Oranjestad,12°31′N,70°02′W,Netherlands
+Maastricht,50°51′N,5°41′E,Netherlands
+Rotterdam,51°56′N,4°29′E,Netherlands
+The Hague,52°05′N,4°19′E,Netherlands
+Utrecht,52°06′N,5°07′E,Netherlands
+Leiden,52°10′N,4°29′E,Netherlands
+Enschede,52°13′N,6°54′E,Netherlands
+Amsterdam,52°22′N,4°54′E,Netherlands
+Haarlem,52°23′N,4°38′E,Netherlands
+Groningen,53°13′N,6°33′E,Netherlands
+Alofi,19°03′S,169°55′W,New Zealand
+Avarua,21°12′S,159°46′W,New Zealand
+Auckland,36°50′S,174°44′E,New Zealand
+Hamilton,37°47′S,175°17′E,New Zealand
+Hastings,39°39′S,176°50′E,New Zealand
+Nelson,41°16′S,173°17′E,New Zealand
+Wellington,41°17′S,174°47′E,New Zealand
+Christchurch,43°32′S,172°37′E,New Zealand
+Dunedin,45°52′S,170°30′E,New Zealand
+Invercargill,46°25′S,168°21′E,New Zealand
+Managua,12°08′N,86°15′W,Nicaragua
+Chinandega,12°37′N,87°09′W,Nicaragua
+Niamey,13°31′N,2°06′E,Niger
+Kano,12°00′N,8°31′E,Nigeria
+Port Harcourt,4°45′N,7°00′E,Nigeria
+Benin City,6°19′N,5°36′E,Nigeria
+Enugu,6°27′N,7°31′E,Nigeria
+Lagos,6°27′N,3°24′E,Nigeria
+Ibadan,7°24′N,3°55′E,Nigeria
+Abuja,9°04′N,7°29′E,Nigeria
+Kaesong,37°58′N,126°33′E,North Korea
+Pyongyang,39°01′N,125°44′E,North Korea
+Wonsan,39°09′N,127°27′E,North Korea
+Chongjin,41°48′N,129°47′E,North Korea
+Kristiansand,58°10′N,8°00′E,Norway
+Sarpsborg,59°17′N,11°12′E,Norway
+Oslo,59°57′N,10°45′E,Norway
+Bergen,60°23′N,5°20′E,Norway
+Lillehammer,61°08′N,10°26′E,Norway
+Trondheim,63°26′N,10°24′E,Norway
+Stjørdal,63°29′N,11°10′E,Norway
+Bodø,67°18′N,14°33′E,Norway
+Narvik,68°25′N,17°34′E,Norway
+Tromsø,69°41′N,18°57′E,Norway
+Vadsø,70°05′N,29°44′E,Norway
+Hammerfest,70°40′N,23°41′E,Norway
+Longyearbyen,78°13′N,15°39′E,Norway
+Ny-Ålesund,78°55′N,11°56′E,Norway
+Salalah,17°01′N,54°05′E,Oman
+Muscat,23°37′N,58°36′E,Oman
+Karachi,24°52′N,67°01′E,Pakistan
+Hyderabad,25°23′N,68°22′E,Pakistan
+Multan,30°12′N,71°28′E,Pakistan
+Faisalabad,31°25′N,73°05′E,Pakistan
+Lahore,31°33′N,74°21′E,Pakistan
+Rawalpindi,33°36′N,73°02′E,Pakistan
+Islamabad,33°43′N,73°04′E,Pakistan
+Peshawar,34°01′N,71°35′E,Pakistan
+Koror City,7°22′N,134°29′E,Palau
+Melekeok,7°29′N,134°36′E,Palau
+Ngerulmud,7°30'2′N,134°36'2′E,Palau
+Gaza,31°31′N,34°27′E,Palestine
+Panama City,8°59′N,79°31′W,Panama
+Port Moresby,9°31′S,147°13′E,Papua New Guinea
+Asunción,25°17′S,57°38′W,Paraguay
+Ciudad del Este,25°31′S,54°37′W,Paraguay
+ Macau,22°10′N,113°33′E,People's Republic of China
+ Hong Kong,22°17′N,114°10′E,People's Republic of China
+Shenzhen,22°33′N,114°06′E,People's Republic of China
+Nanning,22°49′N,108°19′E,People's Republic of China
+Dongguan,23°02′N,113°43′E,People's Republic of China
+Guangzhou,23°08′N,113°16′E,People's Republic of China
+Kunming,25°04′N,102°41′E,People's Republic of China
+Shigatse,29°16′N,88°53′E,People's Republic of China
+Chongqing,29°34′N,106°34′E,People's Republic of China
+Lhasa,29°39′N,91°06′E,People's Republic of China
+Hangzhou,30°15′N,120°10′E,People's Republic of China
+Wuhan,30°35′N,114°17′E,People's Republic of China
+Chengdu,30°40′N,104°04′E,People's Republic of China
+Shanghai,31°12′N,121°30′E,People's Republic of China
+Nanjing,32°03′N,118°46′E,People's Republic of China
+Xi'an,34°16′N,108°54′E,People's Republic of China
+Zhengzhou,34°46′N,113°39′E,People's Republic of China
+Lanzhou,36°02′N,103°48′E,People's Republic of China
+Qingdao,36°04′N,120°23′E,People's Republic of China
+Handan,36°36′N,114°29′E,People's Republic of China
+Xining,36°38′N,101°46′E,People's Republic of China
+Jinan,36°40′N,116°59′E,People's Republic of China
+Taiyuan,37°52′N,112°34′E,People's Republic of China
+Shijiazhuang,38°03′N,114°30′E,People's Republic of China
+Dalian,38°55′N,121°38′E,People's Republic of China
+Tianjin,39°08′N,117°11′E,People's Republic of China
+Beijing,39°55′N,116°23′E,People's Republic of China
+Shenyang,41°48′N,123°24′E,People's Republic of China
+Ürümqi,43°50′N,87°36′E,People's Republic of China
+Changchun,43°54′N,125°12′E,People's Republic of China
+Harbin,45°45′N,126°38′E,People's Republic of China
+Lima,12°03′S,77°02′W,Peru
+Ayacucho,13°10′S,74°13′W,Peru
+Cusco,13°32′S,71°58′W,Peru
+Arequipa,16°24′S,71°32′W,Peru
+Iquitos,3°44′S,73°15′W,Peru
+Trujillo,8°07′S,79°02′W,Peru
+Cebu City,10°17′N,123°54′E,Philippines
+Iloilo City,10°43′N,122°34′E,Philippines
+Makati,14°33′N,121°02′E,Philippines
+Manila,14°35′N,120°58′E,Philippines
+Quezon City,14°38′N,121°02′E,Philippines
+Zamboanga City,6°54′N,122°04′E,Philippines
+Davao City,7°04′N,125°36′E,Philippines
+Tagbilaran,9°39′N,123°51′E,Philippines
+Kraków,50°04′N,19°56′E,Poland
+Warsaw,52°14′N,21°01′E,Poland
+Gdańsk,54°22′N,18°38′E,Poland
+Gdynia,54°30′N,18°33′E,Poland
+Funchal,32°39′N,16°55′W,Portugal
+Ponta Delgada,37°49′N,25°45′W,Portugal
+Angra do Heroísmo,38°29′N,27°13′W,Portugal
+Horta,38°35′N,28°43′W,Portugal
+Lisbon,38°43′N,9°08′W,Portugal
+Flores Island,39°28′N,31°14′W,Portugal
+Porto,41°10′N,8°37′W,Portugal
+Doha,25°17′N,51°32′E,Qatar
+Kaohsiung,22°38′N,120°16′E,Republic of China (Taiwan)
+Tainan,22°59′N,120°11′E,Republic of China (Taiwan)
+Taichung,24°09′N,120°40′E,Republic of China (Taiwan)
+Taipei,25°02′N,121°38′E,Republic of China (Taiwan)
+Brazzaville,4°16′S,15°18′E,Republic of the Congo
+Craiova,44°20′N,23°49′E,Romania
+Bucharest,44°26′N,26°06′E,Romania
+Cluj-Napoca,46°46′N,23°35′E,Romania
+Vladivostok,43°08′N,131°54′E,Russia
+Sochi,43°35′N,39°43′E,Russia
+Simferopol,44°57′N,34°06′E,Russia
+Krasnodar,45°02′N,38°58′E,Russia
+Rostov-on-Don,47°14′N,39°42′E,Russia
+Volgograd,48°42′N,44°31′E,Russia
+Saratov,51°32′N,46°01′E,Russia
+Voronezh,51°40′N,39°13′E,Russia
+Irkutsk,52°19′N,104°18′E,Russia
+Petropavlovsk-Kamchatsky,53°01′N,158°39′E,Russia
+Samara,53°12′N,50°08′E,Russia
+Tolyatti,53°31′N,49°25′E,Russia
+Kaliningrad,54°43′N,20°31′E,Russia
+Ufa,54°45′N,55°58′E,Russia
+Omsk,54°59′N,73°22′E,Russia
+Novosibirsk,55°01′N,82°56′E,Russia
+Chelyabinsk,55°09′N,61°23′E,Russia
+Moscow,55°45′N,37°37′E,Russia
+Kazan,55°47′N,49°08′E,Russia
+Krasnoyarsk,56°01′N,93°04′E,Russia
+Bratsk,56°07′N,101°36′E,Russia
+Nizhny Novgorod,56°20′N,44°00′E,Russia
+Izhevsk,56°50′N,53°11′E,Russia
+Yekaterinburg,56°50′N,60°35′E,Russia
+Yaroslavl,57°37′N,39°51′E,Russia
+Perm,58°00′N,56°19′E,Russia
+Magadan,59°34′N,150°48′E,Russia
+Saint Petersburg,59°57′N,30°18′E,Russia
+Yakutsk,62°02′N,129°44′E,Russia
+Arkhangelsk,64°32′N,40°32′E,Russia
+Anadyr,64°44′N,177°31′E,Russia
+Verkhoyansk,67°33′N,133°23′E,Russia
+Murmansk,68°58′N,33°05′E,Russia
+Norilsk,69°20′N,88°13′E,Russia
+Kigali,1°57′S,30°04′E,Rwanda
+Basseterre,17°18′N,62°44′W,Saint Kitts and Nevis
+Castries,14°01′N,60°59′W,Saint Lucia
+Kingstown,13°09′N,61°14′W,Saint Vincent and the Grenadines
+Apia,13°50′S,171°45′W,Samoa
+San Marino,43°56′N,12°27′E,San Marino
+São Tomé,0°20′N,6°41′E,São Tomé and Príncipe
+Mecca,21°25′N,39°49′E,Saudi Arabia
+Jeddah,21°33′N,39°10′E,Saudi Arabia
+Medina,24°28′N,39°36′E,Saudi Arabia
+Riyadh,24°38′N,46°43′E,Saudi Arabia
+Dammam,26°17′N,50°12′E,Saudi Arabia
+Dakar,14°42′N,17°27′W,Senegal
+Thiès,14°47′N,16°55′W,Senegal
+Pristina,42°40′N,21°10′E,Serbia
+Belgrade,44°49′N,20°28′E,Serbia
+Novi Sad,45°15′N,19°51′E,Serbia
+Victoria,4°37′S,55°27′E,Seychelles
+Freetown,8°29′N,13°14′W,Sierra Leone
+Singapore,1°17′N,103°50′E,Singapore
+Bratislava,48°09′N,17°07′E,Slovakia
+Ljubljana,46°03′N,14°31′E,Slovenia
+Honiara,9°28′S,159°49′E,Solomon Islands
+Kismayo,0°21′S,42°33′E,Somalia
+Mogadishu,2°02′N,45°21′E,Somalia
+Hargeisa,9°34′N,44°04′E,Somalia
+Polokwane,23°54′S,29°27′E,South Africa
+Nelspruit,25°28′S,30°59′E,South Africa
+Pretoria,25°45′S,28°11′E,South Africa
+Mafikeng,25°51′S,25°38′E,South Africa
+Johannesburg,26°12′S,28°03′E,South Africa
+Kimberley,28°45′S,24°46′E,South Africa
+Bloemfontein,29°07′S,26°13′E,South Africa
+Pietermaritzburg,29°37′S,30°23′E,South Africa
+Durban,29°53′S,31°03′E,South Africa
+Bhisho,32°51′S,27°26′E,South Africa
+Cape Town,33°56′S,18°25′E,South Africa
+Port Elizabeth,33°57′S,25°36′E,South Africa
+Busan,35°11′N,129°05′E,South Korea
+Daegu,35°52′N,128°36′E,South Korea
+Incheon,37°29′N,126°38′E,South Korea
+Seoul,37°34′N,126°59′E,South Korea
+Juba,4°51′N,31°36′E,South Sudan
+Las Palmas de Gran Canaria,28°09′N,15°25′W,Spain
+Santa Cruz de Tenerife,28°28′N,16°15′W,Spain
+Málaga,36°43′N,4°25′W,Spain
+Sevilla,37°23′N,5°59′W,Spain
+Ibiza,38°59′N,1°26′E,Spain
+Valencia,39°28′N,0°23′W,Spain
+Palma,39°34′N,2°39′E,Spain
+Madrid,40°23′N,3°43′W,Spain
+Barcelona,41°23′N,2°11′E,Spain
+Lleida,41°37′N,0°38′E,Spain
+Zaragoza,41°39′N,0°53′W,Spain
+Bilbao,43°15′N,2°55′W,Spain
+Sri Jayawardenapura-Kotte,6°55′N,79°53′E,Sri Lanka
+Colombo,6°56′N,79°51′E,Sri Lanka
+Kandy,7°18′N,80°38′E,Sri Lanka
+Batticaloa,7°43′N,81°42′E,Sri Lanka
+Khartoum,15°38′N,32°32′E,Sudan
+Omdurman,15°39′N,32°29′E,Sudan
+Paramaribo,5°52′N,55°10′W,Suriname
+Mbabane,26°19′S,31°08′E,Swaziland
+Lobamba,26°25′S,31°10′E,Swaziland
+Manzini,26°29′S,31°22′E,Swaziland
+Malmö,55°35′N,13°02′E,Sweden
+Gothenburg,57°42′N,11°58′E,Sweden
+Norrköping,58°36′N,16°12′E,Sweden
+Stockholm,59°20′N,18°04′E,Sweden
+Uppsala,59°51′N,17°39′E,Sweden
+Sundsvall,62°24′N,17°19′E,Sweden
+Östersund,63°11′N,14°40′E,Sweden
+Örnsköldsvik,63°17′N,18°44′E,Sweden
+Umeå,63°50′N,20°16′E,Sweden
+Skellefteå,64°45′N,20°57′E,Sweden
+Piteå,65°20′N,21°30′E,Sweden
+Luleå,65°35′N,22°09′E,Sweden
+Boden,65°50′N,21°43′E,Sweden
+Haparanda,65°50′N,24°08′E,Sweden
+Kiruna,67°51′N,20°13′E,Sweden
+Geneva,46°12′N,6°09′E,Switzerland
+Lausanne,46°31′N,6°38′E,Switzerland
+Bern,46°57′N,7°27′E,Switzerland
+Zürich,47°22′N,8°33′E,Switzerland
+Basel,47°34′N,7°36′E,Switzerland
+Damascus,33°31′N,36°18′E,Syria
+Latakia,35°31′N,35°47′E,Syria
+Dushanbe,38°32′N,68°47′E,Tajikistan
+Mwanza,2°31′S,32°54′E,Tanzania
+Dodoma,6°10′S,35°45′E,Tanzania
+Zanzibar City,6°10′S,39°12′E,Tanzania
+Dar es Salaam,6°48′S,39°17′E,Tanzania
+Pattaya,12°56′N,100°53′E,Thailand
+Bangkok,13°45′N,100°28′E,Thailand
+Phra Nakhon Si Ayutthaya,14°21′N,100°34′E,Thailand
+Nakhon Ratchasima,14°59′N,102°06′E,Thailand
+Khon Kaen,16°26′N,102°50′E,Thailand
+Udon Thani,17°25′N,102°45′E,Thailand
+Chiang Mai,18°48′N,99°00′E,Thailand
+Chiang Rai,19°55′N,99°50′E,Thailand
+Hat Yai,7°01′N,100°28′E,Thailand
+Phuket,7°53′N,98°24′E,Thailand
+Surat Thani,9°08′N,99°20′E,Thailand
+Dili,8°33′S,125°35′E,Timor-Leste
+Lomé,6°08′N,1°13′E,Togo
+Nukuʻalofa,21°08′S,175°12′W,Tonga
+San Fernando,10°17′N,61°28′W,Trinidad and Tobago
+Chaguanas,10°30′N,61°23′W,Trinidad and Tobago
+Port of Spain,10°40′N,61°31′W,Trinidad and Tobago
+Sfax,34°44′N,10°46′E,Tunisia
+Tunis,36°48′N,10°11′E,Tunisia
+Mersin,36°48′N,34°38′E,Turkey
+Adana,37°00′N,35°19′E,Turkey
+Gaziantep,37°04′N,37°23′E,Turkey
+Konya,37°52′N,32°29′E,Turkey
+İzmir,38°26′N,27°09′E,Turkey
+Eskisehir,39°47′N,30°31′E,Turkey
+Ankara,39°56′N,32°52′E,Turkey
+Bursa,40°11′N,29°03′E,Turkey
+Istanbul,41°01′N,28°57′E,Turkey
+Ashgabat,37°56′N,58°22′E,Turkmenistan
+Funafuti,8°31′S,179°13′E,Tuvalu
+Nukulaelae,9°23′S,179°51′E,Tuvalu
+Entebbe,0°03′N,32°28′E,Uganda
+Kampala,0°19′N,32°35′E,Uganda
+Odessa,46°28′N,30°44′E,Ukraine
+Lviv,49°51′N,24°01′E,Ukraine
+Kharkiv,50°00′N,36°14′E,Ukraine
+Kiev,50°27′N,30°31′E,Ukraine
+Abu Dhabi,24°28′N,54°22′E,United Arab Emirates
+Dubai,25°15′N,55°18′E,United Arab Emirates
+Jamestown,15°55′S,5°43′W,United Kingdom
+The Valley,18°13′N,63°03′W,United Kingdom
+Road Town,18°26′N,64°37′W,United Kingdom
+George Town,19°18′N,81°23′W,United Kingdom
+Cockburn Town,21°28′N,71°08′W,United Kingdom
+Adamstown,25°04′S,130°06′W,United Kingdom
+Hamilton,32°18′N,64°47′W,United Kingdom
+Gibraltar,36°08′N,5°21′W,United Kingdom
+Plymouth,50°22′N,4°09′W,United Kingdom
+Exeter,50°43′N,3°32′W,United Kingdom
+Portsmouth,50°49′N,1°05′W,United Kingdom
+Brighton and Hove,50°50′N,0°09′W,United Kingdom
+Southampton,50°54′N,1°24′W,United Kingdom
+Bath,51°23′N,2°22′W,United Kingdom
+Bristol,51°27′N,2°35′W,United Kingdom
+Cardiff,51°29′N,3°11′W,United Kingdom
+Greenwich,51°29′N,0°00′E/W,United Kingdom
+London,51°30′N,0°08′W,United Kingdom
+Swansea,51°37′N,3°57′W,United Kingdom
+Stanley,51°42′S,57°52′W,United Kingdom
+Oxford,51°45′N,1°15′W,United Kingdom
+Gloucester,51°52′N,2°14′W,United Kingdom
+Cambridge,52°12′N,0°07′E,United Kingdom
+Coventry,52°24′N,1°31′W,United Kingdom
+Birmingham,52°29′N,1°54′W,United Kingdom
+Peterborough,52°35′N,0°15′W,United Kingdom
+Leicester,52°38′N,1°08′W,United Kingdom
+Norwich,52°38′N,1°18′E,United Kingdom
+Nottingham,52°57′N,1°08′W,United Kingdom
+Sheffield,53°23′N,1°28′W,United Kingdom
+Liverpool,53°24′N,2°59′W,United Kingdom
+Manchester,53°28′N,2°14′W,United Kingdom
+Bradford,53°48′N,1°45′W,United Kingdom
+Leeds,53°48′N,1°33′W,United Kingdom
+Douglas,54°09′N,4°29′W,United Kingdom
+Grytviken,54°17′S,36°30′W,United Kingdom
+Belfast,54°36′N,5°56′W,United Kingdom
+Newcastle upon Tyne,54°58′N,1°37′W,United Kingdom
+Glasgow,55°51′N,4°16′W,United Kingdom
+Edinburgh,55°57′N,3°11′W,United Kingdom
+Dundee,56°28′N,2°58′W,United Kingdom
+Aberdeen,57°09′N,2°07′W,United Kingdom
+Inverness,57°28′N,4°14′W,United Kingdom
+Hagåtña,13°29′N,144°45′E,United States
+Dededo,13°31′N,144°50′E,United States
+Pago Pago,14°17′S,170°42′W,United States
+Saipan,15°11′N,145°45′E,United States
+Charlotte Amalie,18°21′N,64°57′W,United States
+San Juan,18°27′N,66°04′W,United States
+Hilo,19°42′N,155°05′W,United States
+Honolulu,21°19′N,157°50′W,United States
+Key West,24°34′N,81°47′W,United States
+Miami,25°47′N,80°13′W,United States
+Tampa,27°57′N,82°28′W,United States
+Orlando,28°25′N,81°18′W,United States
+San Antonio,29°25′N,98°30′W,United States
+Houston,29°46′N,95°23′W,United States
+New Orleans,29°58′N,90°03′W,United States
+Austin,30°15′N,97°45′W,United States
+Jacksonville,30°20′N,81°40′W,United States
+Mobile,30°42′N,88°03′W,United States
+El Paso,31°47′N,106°25′W,United States
+Tucson,32°13′N,110°56′W,United States
+Jackson,32°18′N,90°11′W,United States
+San Diego,32°43′N,117°10′W,United States
+Dallas,32°47′N,96°48′W,United States
+Phoenix,33°27′N,112°04′W,United States
+Birmingham,33°39′N,86°49′W,United States
+Atlanta,33°45′N,84°23′W,United States
+Riverside,33°57′N,117°24′W,United States
+Columbia,34°00′N,81°03′W,United States
+Los Angeles,34°03′N,118°15′W,United States
+Wilmington,34°13′N,77°55′W,United States
+Santa Barbara,34°26′N,119°43′W,United States
+Little Rock,34°44′N,92°20′W,United States
+Albuquerque,35°07′N,106°37′W,United States
+Memphis,35°07′N,89°58′W,United States
+Charlotte,35°14′N,80°51′W,United States
+Oklahoma City,35°29′N,97°32′W,United States
+Santa Fe,35°40′N,105°58′W,United States
+Raleigh,35°49′N,78°39′W,United States
+Los Alamos,35°53′N,106°18′W,United States
+Knoxville,35°58′N,83°57′W,United States
+Tulsa,36°08′N,95°56′W,United States
+Nashville,36°10′N,86°47′W,United States
+Las Vegas,36°11′N,115°08′W,United States
+Virginia Beach,36°51′N,75°59′W,United States
+Springfield,37°12′N,93°17′W,United States
+Wichita,37°41′N,97°20′W,United States
+San Francisco,37°47′N,122°25′W,United States
+Louisville,38°15′N,85°46′W,United States
+Charleston,38°21′N,81°38′W,United States
+Sacramento,38°33′N,121°28′W,United States
+St. Louis,38°38′N,90°12′W,United States
+Washington,38°54′N,77°02′W,United States
+Cincinnati,39°06′N,84°31′W,United States
+Kansas City,39°06′N,94°35′W,United States
+Dover,39°10′N,75°32′W,United States
+Baltimore,39°17′N,76°37′W,United States
+Reno,39°32′N,119°49′W,United States
+Denver,39°44′N,104°59′W,United States
+Indianapolis,39°46′N,86°09′W,United States
+Forked River,39°48′N,74°06′W,United States
+Philadelphia,39°57′N,75°10′W,United States
+Columbus,39°59′N,82°59′W,United States
+Boulder,40°01′N,105°17′W,United States
+Trenton,40°13′N,74°46′W,United States
+Pittsburgh,40°27′N,80°00′W,United States
+New York City,40°40′N,73°56′W,United States
+Jersey City,40°43′N,74°04′W,United States
+Salt Lake City,40°45′N,111°53′W,United States
+Lincoln,40°49′N,96°41′W,United States
+Fort Wayne,41°05′N,85°08′W,United States
+Cheyenne,41°09′N,104°48′W,United States
+Cleveland,41°29′N,81°40′W,United States
+Des Moines,41°35′N,93°37′W,United States
+Hartford,41°46′N,72°40′W,United States
+Providence,41°49′N,71°25′W,United States
+Chicago,41°53′N,87°38′W,United States
+Detroit,42°20′N,83°03′W,United States
+Boston,42°21′N,71°04′W,United States
+Buffalo,42°54′N,78°51′W,United States
+Milwaukee,43°03′N,87°57′W,United States
+Rochester,43°10′N,77°37′W,United States
+Concord,43°12′N,71°32′W,United States
+Boise,43°37′N,116°12′W,United States
+Montpelier,44°15′N,72°34′W,United States
+Augusta,44°19′N,69°47′W,United States
+Pierre,44°22′N,100°20′W,United States
+Minneapolis,44°59′N,93°16′W,United States
+Portland,45°31′N,122°41′W,United States
+Helena,46°36′N,112°02′W,United States
+Bismarck,46°49′N,100°47′W,United States
+Seattle,47°37′N,122°20′W,United States
+Adak,51°53′N,176°39′W,United States
+Sitka,57°03′N,135°20′W,United States
+Juneau,58°18′N,134°25′W,United States
+Anchorage,61°13′N,149°54′W,United States
+Fairbanks,64°51′N,147°43′W,United States
+Deadhorse,70°12′N,148°31′W,United States
+Barrow,71°18′N,156°46′W,United States
+Montevideo,34°53′S,56°11′W,Uruguay
+Namangan,41°00′N,71°40′E,Uzbekistan
+Tashkent,41°16′N,69°13′E,Uzbekistan
+Nukus,42°28′N,59°36′E,Uzbekistan
+Port Vila,17°45′S,168°18′E,Vanuatu
+Vatican City,41°54′N,12°27′E,Vatican City
+Maracay,10°15′N,67°36′W,Venezuela
+Caracas,10°30′N,66°55′W,Venezuela
+Maracaibo,10°39′N,71°38′W,Venezuela
+Puerto Ayacucho,5°40′N,67°38′W,Venezuela
+Ciudad Bolívar,8°07′N,63°33′W,fghanistan
+Ho Chi Minh City,10°46′N,106°41′E,Vietnam
+Da Nang,16°04′N,108°14′E,Vietnam
+Huế,16°28′N,107°35′E,Vietnam
+Hai Phong,20°51′N,106°41′E,Vietnam
+Hanoi,21°02′N,105°51′E,Vietnam
+Sana'a,15°21′N,44°12′E,Yemen
+Ndola,12°58′S,28°38′E,Zambia
+Lusaka,15°25′S,28°17′E,Zambia
+Livingstone,17°51′S,25°52′E,Zambia
+Harare,17°52′S,31°02′E,Zimbabwe
+Mutare,18°58′S,32°38′E,Zimbabwe
+Gweru,19°27′S,29°48′E,Zimbabwe
+Bulawayo,20°10′S,28°35′E,Zimbabwe
